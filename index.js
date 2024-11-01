@@ -7,15 +7,6 @@ import cartRouter from "./routes/cartRoute.js";
 
 import "dotenv/config.js";
 import orderRouter from "./routes/orderRoute.js";
-// import mongoose from "mongoose";
-// import bodyParser from "body-parser";
-// import dotenv from "dotenv";
-// import multer from "multer";
-// import path from "path";
-// import { fileURLToPath } from "url";
-// import { register } from "./src/controllers/auth.js";
-// import { createPost } from "./src/controllers/posts.js";
-// import { verifyToken } from "./src/middleware/auth.js";
 
 // app config
 const app = express();

@@ -12,6 +12,9 @@
     "url": "git+https://github.com/food-delivery-website-Depi/backEnd.git"
   },
   "author": "",
+  "engines": {
+    "node": "20.11.0"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/food-delivery-website-Depi/backEnd/issues"
